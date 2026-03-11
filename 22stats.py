@@ -31,3 +31,4 @@ print('range:', vals[-1] - vals[0])
 print('average:', mean)
 print('median:', median)
 print('standard deviation:',stdv)
+
